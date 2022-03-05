@@ -32,7 +32,7 @@ Para ambos casos abrá un apartado para notificaciones.
 
 ## Buyer Persona
 
-El buyer persona está definido en el siguiente archivo: [Buyer Persona.](./Buyer Persona.pdf)
+El buyer persona está definido en el siguiente archivo: Buyer Persona.pdf
 
 ## Público Objetivo
 
