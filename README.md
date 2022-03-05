@@ -40,8 +40,8 @@ El público objetivo se encuentra descrito en el siguiente documento de Miro: ht
 
 ## UX - Wireframes
 
-Los Wireframes se encuentran alojados en la siguiente carpeta de Drive: Wireframes.
+Los Wireframes se encuentran alojados en la siguiente carpeta: **Wireframes**.
 
 ## UI
 
-El UI se encuentra alojado en la siguiente carpeta de Drive: Interfaces.
+El UI se encuentra alojado en la siguiente carpeta: **UI**.
