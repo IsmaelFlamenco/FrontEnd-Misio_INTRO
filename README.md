@@ -36,7 +36,7 @@ El buyer persona está definido en el siguiente archivo: [Buyer Persona.](./Buye
 
 ## Público Objetivo
 
-El público objetivo se encuentra descrito en el siguiente documento de Miro:
+El público objetivo se encuentra descrito en el siguiente documento de Miro: https://miro.com/app/board/uXjVOJAYj-0=/?invite_link_id=997522553057
 
 ## UX - Wireframes
 
